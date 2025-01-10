@@ -18,6 +18,7 @@
 - Tkinter
 - pandas
 - matplotlib
+- OpenAI
 
 ## ライセンス
 MIT License
