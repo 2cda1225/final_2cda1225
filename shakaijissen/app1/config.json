@@ -1,0 +1,17 @@
+{
+    "currency": "JPY",
+    "categories": [
+        { "name": "Food", "priority": 1 },
+        { "name": "Transport", "priority": 2 },
+        { "name": "Entertainment", "priority": 3 },
+        { "name": "Other", "priority": 4 }
+    ],
+    "folders": [
+        {
+            "id": 1,
+            "name": "Parent Directory",
+            "path": "..",
+            "type": "relative"
+        }
+    ]
+}
